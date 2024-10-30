@@ -1,0 +1,40 @@
+=== Copygram widget ===
+Contributors: Jonk
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9344931
+Tags: Instagram, Copygram, copygr.am, widget, latest, photos
+Requires at least: 3.0.0
+Tested up to: 3.3.2
+Stable tag: 0.1
+
+Show your latest Instagram images in a widget. Images are linked to Copygram, where all your Instagram images are visible in a very nice grid.
+
+== Description ==
+
+Show your latest Instagram images in a widget. Images are linked to Copygram, where all your Instagram images are visible in a very nice grid.
+
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+1. Upload the folder "copygram-widget" to the "/wp-content/plugins/" directory
+
+2. Activate the plugin through the "Plugins" menu in WordPress
+
+3. Got to "Widgets" (under "Appearance") and add one or more "Copygram widget" from "Available Widgets"
+
+4. Do your settings. Your "Copygram url" is http://copygr.am/ + your Instagram username
+
+== Frequently Asked Questions ==
+
+None, yet.
+
+== Screenshots ==
+
+1. Settings in the widget
+2. The nice result
+3. Images show up on the same row if they fit. Experiment by changing "Image size" and "Padding".
+
+== Changelog ==
+
+= 0.1 =
+* Initial release
